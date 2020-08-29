@@ -42,6 +42,7 @@
 |float|32|3.4e-38 to +3.4e38|
 |double|64|1.7e-308 to +1.7e+308|
 |unsigned char|8|0 to 255|
+
 # 16. Format Specifiers in C
 |Data Type|Format Specifier|
 |------|------|
@@ -54,7 +55,8 @@ short int|%hi
 unsigned short int|%hu
 long double|%lf
 long int|%ld
-unsigned long int|%lu
+unsigned long int|%lu  |
+
 # 17. Instruction Types in C
 ## Type Declaration Instruction:
 This Instruction is used to Declare the type of variable being used in
